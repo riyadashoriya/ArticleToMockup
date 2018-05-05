@@ -1,7 +1,7 @@
 # ArticleToMockup
 Udacity's Front End Web Developer Nanodegree CH1-Lesson6. This is a mockup code of a website (HTML)
 
-![alt text](https://github.com/riyadashoriya/Movie_Trailer_Website/blob/master/gitphoto.png "Mockup Preview")
+![alt text](https://github.com/riyadashoriya/ArticleToMockup/blob/master/blog-mockup.png "Mockup Preview")
 
 ### Content:
 
@@ -13,4 +13,4 @@ Run the index.html file to check the website on web browser
 
 
 ### Licence
-The content of index.html is provided by Udacity 
+The content of index.html is provided by Udacity
