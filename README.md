@@ -1,5 +1,6 @@
 # ArticleToMockup
-Udacity's Front End Web Developer Nanodegree CH1-Lesson6. This is a mockup code of a website (HTML)
+Udacity's Front End Web Developer Nanodegree CH1-Lesson6. This is a mockup code of a website (HTML). Mockup article is published at: https://riyadashoriya.github.io/ArticleToMockup/
+
 
 ![alt text](https://github.com/riyadashoriya/ArticleToMockup/blob/master/blog-mockup.png "Mockup Preview")
 
